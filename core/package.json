@@ -1,0 +1,33 @@
+{
+  "name": "smart-factory-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "scripts": {
+    "start": "'ts-node' src/Backend.ts",
+    "stable": "stably 'ts-node' src/Backend.ts",
+    "lint": "tslint -c tslint.json 'src/**/*.ts' --fix --force"
+  },
+  "keywords": [],
+  "author": "hmmhmmhm",
+  "license": "See LICENSE.md File",
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "apollo-server": "^2.4.8",
+    "apollo-server-express": "^2.4.8",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "folder-logger": "^1.0.4",
+    "graphql": "^14.1.1",
+    "graphql-tag": "^2.10.1",
+    "level-hyper": "^2.0.0",
+    "nested-static": "^1.1.0",
+    "stably": "^1.0.1",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.4000"
+  },
+  "devDependencies": {
+    "tslint": "^5.14.0",
+    "tslint-eslint-rules": "^5.4.0"
+  }
+}
