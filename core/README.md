@@ -1,10 +1,10 @@
-# Smart-Factory Backend
+# Entry-Engine Core
 
 
 
 ## 설치방법
 
-- 이 프로그램은 실행하기 전 Node.js 을 설치해야합니다. [Node 설치페이지](https://nodejs.org/en/)
+- 이 프로그램은 실행하기 전 Node.js 을 설치해야합니다. [Node 설치페이지](https://nodejs.org/)
 - Github 에서 프로그램 소스코드 폴더를 받아주신 후 해당 소스코드 폴더에서 Terminal 을 열어주세요.
 - npm install 을 입력해서 프로그램의 서브모듈들을 모두 설치해줍니다.
 - npm start 를 통해서 백엔드 서버를 실행시킵니다.
