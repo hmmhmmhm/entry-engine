@@ -100,3 +100,20 @@ https://coderjourney.com/tutorials/how-to-add-blueprintjs-to-a-react-app/
 
 >  Framer.js 를 이용한 수정 및 애니메이션 구성이 가능한 디자인 컴포넌트 구성
 
+
+
+
+
+## Core-Side Problem
+
+
+
+### 데이터 저장 체계 문제
+
+> 서버에 도커 설치 없이도 내장 시킬 수 있는 가벼우면서 성능 좋은 데이터베이스 기반의 운용?
+
+Level DB 를 이용해서
+
+
+
+### 데이터 연동 체계 문제

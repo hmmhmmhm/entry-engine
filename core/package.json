@@ -1,16 +1,14 @@
 {
-  "name": "smart-factory-backend",
+  "name": "entry-engine-core",
   "version": "1.0.0",
-  "description": "",
-  "main": "backend.js",
   "scripts": {
-    "start": "'ts-node' src/Backend.ts",
-    "stable": "stably 'ts-node' src/Backend.ts",
+    "start": "'ts-node' src/Core.ts",
+    "stable": "stably 'ts-node' src/Core.ts",
     "lint": "tslint -c tslint.json 'src/**/*.ts' --fix --force"
   },
   "keywords": [],
   "author": "hmmhmmhm",
-  "license": "See LICENSE.md File",
+  "license": "MIT",
   "dependencies": {
     "@types/express": "^4.16.1",
     "apollo-server": "^2.4.8",

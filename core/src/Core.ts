@@ -4,8 +4,8 @@
  */
 import "source-map-support/register"
 import Logger from "./Logger"
-Logger.debug(`🌳  Entry Engine BackEnd 서버 프로그램이 실행 되었습니다.`)
-Logger.debug(`🌳  Version: BackEnd-1.0.0-Entry-Plug`)
+Logger.debug(`🌳  Entry Engine Core 서버 프로그램이 실행 되었습니다.`)
+Logger.debug(`🌳  Version: Core-1.0.0-Entry-Plug`)
 Logger.debug(`🚧  Ctrl+C 를 입력해서 프로그램을 종료할 수 있습니다.`)
 
 /**
